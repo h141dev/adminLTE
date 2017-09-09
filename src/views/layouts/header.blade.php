@@ -157,6 +157,12 @@
                                     </a>
                                 </li>
                                 <!-- end Language item -->
+                                <li><!-- Language item -->
+                                    <a href="{{url('language/ja')}}">
+                                        <i class="fa fa-language text-aqua"></i> 日本語
+                                    </a>
+                                </li>
+                                <!-- end Language item -->
                             </ul>
                         </li>
                     </ul>
